@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(https://www.wallpapertip.com/wmimgs/0-7385_steven-universe-warp-pad-intro.png);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding-left: 8%;
+	padding-right: 8%;
+	box-sizing: border-box;
+}
+h1{
+	color: white;
+	font-size: 100px;
+	padding-top: 10%;
+}
+h3{
+	color: white;
+	font-size: 50px;
+}
+h2{
+	color: white;
+	font-size: 25px;
+}
+p{
+	color: white;
+	font-size: 20px;
+}
